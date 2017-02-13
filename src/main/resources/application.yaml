@@ -1,0 +1,8 @@
+#zookeeper:
+#  connect:  localhost:2181
+#
+#kafka:
+#  topic:  kafka-topic
+#  messageKey: kafkaconnect
+#  broker:
+#    address:  localhost:9092
