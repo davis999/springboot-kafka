@@ -6,3 +6,7 @@
 #  messageKey: kafkaconnect
 #  broker:
 #    address:  localhost:9092
+
+brokerList: localhost:9092
+sync: sync
+topic:  test
